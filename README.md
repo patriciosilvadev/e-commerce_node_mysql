@@ -1,8 +1,8 @@
 E-Commerce Rest APIs in Nodejs and MySql
 
-#Install dependencies
+Install dependencies
 
 npm install
 
-#Run development server
+Run development server
 
